@@ -1,3 +1,3 @@
-# movie_app
+# Cinepop
 
 A new Flutter project.
